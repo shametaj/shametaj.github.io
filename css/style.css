@@ -29,13 +29,13 @@ body {
 
 .slides-navigation a.next {
 
-	right:20px;
+	right:15px;
 	background-image: url(../img/icons/next.png);
 }
 
 .slides-navigation a.prev {
 
-	left:20px;
+	left:15px;
 	background-image: url(../img/icons/prev.png);
 }
 
@@ -58,11 +58,11 @@ body {
 }
 
 .titleMessage .heading .main {
-	font-size: 50px;
+	font-size: 45px;
 }
 
 .titleMessage .heading .sub {
-	font-size: 25px;
+	font-size: 22px;
 }
 
 .section {
