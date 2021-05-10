@@ -21,21 +21,21 @@ body {
 .slides-navigation .next,
 .slides-navigation .prev {
 
-	width:47px;
-	height:47px;
+	width:40px;
+	height:40px;
 	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .slides-navigation a.next {
 
-	right:15px;
+	right:20px;
 	background-image: url(../img/icons/next.png);
 }
 
 .slides-navigation a.prev {
 
-	left:15px;
+	left:20px;
 	background-image: url(../img/icons/prev.png);
 }
 
